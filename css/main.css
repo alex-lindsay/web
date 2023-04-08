@@ -1,0 +1,24 @@
+body {
+    font-family: 'Exo 2', sans-serif;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.topnav {
+    position: sticky;
+    top: 0;
+    background: #fff;
+    z-index: 10000;
+    padding: 0.125em 0;
+    margin: 0 0 0.125em 0;
+}
+
+.index img.portrait {
+    float: left;
+    width: 30%;
+    margin: 0 1em 1em 0;
+}
+
+footer {
+    font-size: 60%;
+}
