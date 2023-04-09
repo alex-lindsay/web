@@ -1,8 +1,14 @@
+html {
+    background-color: #f7f7f7;
+}
+
 body {
     font-family: 'Exo 2', sans-serif;
     font-weight: 300;
     max-width: 1024px;
     margin: 0 auto;
+    background-color: #fff;
+    padding: 0 0.5em;
 }
 
 a {
