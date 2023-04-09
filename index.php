@@ -3,7 +3,7 @@
 	define('WEBROOT', $_SERVER['DOCUMENT_ROOT'] != '/Library/WebServer/Documents' ? '' : '/Stuff/Sites/alex-lindsay.com');
 	$title = "Alex Lindsay - Home Page";
 	$filename = basename(__FILE__);
-  $pageclass = 'home';
+  $pageclass = 'index';
 	// $filename = substr($filename, 0, strrpos($filename, '.'));
 	// $project = substr($filename, 0, strrpos($filename, '-'));
 	// $folder = basename(dirname(__FILE__));
