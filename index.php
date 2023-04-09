@@ -1,3 +1,14 @@
+<?php
+	define('DOCROOT', $_SERVER['DOCUMENT_ROOT'] != '/Library/WebServer/Documents' ? $_SERVER['DOCUMENT_ROOT'] : '/Volumes/Stuff/Sites/alex-lindsay.com');
+	define('WEBROOT', $_SERVER['DOCUMENT_ROOT'] != '/Library/WebServer/Documents' ? '' : '/Stuff/Sites/alex-lindsay.com');
+	$title = "Alex Lindsay - Home Page";
+	$filename = basename(__FILE__);
+	// $filename = substr($filename, 0, strrpos($filename, '.'));
+	// $project = substr($filename, 0, strrpos($filename, '-'));
+	// $folder = basename(dirname(__FILE__));
+?>
+<?php include(DOCROOT . '/header.inc.php'); ?>
+<!-- 
 <html lang="en">
 <head>
   <title>Alex Lindsay</title>
@@ -6,14 +17,14 @@
 	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="<?php echo WEBROOT; ?>/img/ico/apple-touch-icon-114-precomposed.png">
 	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/<?php echo WEBROOT; ?>img/ico/apple-touch-icon-72-precomposed.png">
 	<link rel="apple-touch-icon-precomposed" href="<?php echo WEBROOT; ?>/img/ico/apple-touch-icon-57-precomposed.png"> -->
-	<link rel="shortcut icon" href="img/favicon.ico">
-  <link rel="stylesheet" href="css/main.css" media="screen">
+	<link rel="shortcut icon" href="<?php echo WEBROOT; ?>/img/favicon.ico">
+  <link rel="stylesheet" href="<?php echo WEBROOT; ?>/css/main.css" media="screen">
   <link rel="preconnect" href="https://fonts.googleapis.com"> 
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Dosis:wght@400;800&family=Exo+2:ital,wght@0,100;0,300;0,500;0,700;0,900;1,100;1,300;1,700;1,900&display=swap" rel="stylesheet">
 </head>
 
-<body class="index">
+<body class="index"> -->
 
   <nav class="topnav">
     <ul>
