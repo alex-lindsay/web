@@ -13,10 +13,10 @@
 <head>
   <title>Alex Lindsay</title>
   <meta charset="utf-8" />
-  <!-- <link rel="apple-touch-icon-precomposed" sizes="144x144" href="<?php echo WEBROOT; ?>/img/ico/apple-touch-icon-144-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="<?php echo WEBROOT; ?>/img/ico/apple-touch-icon-144-precomposed.png">
 	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="<?php echo WEBROOT; ?>/img/ico/apple-touch-icon-114-precomposed.png">
 	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/<?php echo WEBROOT; ?>img/ico/apple-touch-icon-72-precomposed.png">
-	<link rel="apple-touch-icon-precomposed" href="<?php echo WEBROOT; ?>/img/ico/apple-touch-icon-57-precomposed.png"> -->
+	<link rel="apple-touch-icon-precomposed" href="<?php echo WEBROOT; ?>/img/ico/apple-touch-icon-57-precomposed.png">
 	<link rel="shortcut icon" href="<?php echo WEBROOT; ?>/img/favicon.ico">
   <link rel="stylesheet" href="<?php echo WEBROOT; ?>/css/main.css" media="screen">
   <link rel="preconnect" href="https://fonts.googleapis.com"> 
@@ -39,6 +39,7 @@
     <p>I've been in the software engineering game since before the world feared the Millennium Bug, and I've had the privilege of working in a variety of roles - from individual contributor to manager to business owner - across a range of industries, including software business systems, food manufacturing, entertainment, and health & beauty.</p>  
     <p>At every turn, I've used my expertise to engineer software that makes work easier, facilitates building new things, and helps businesses grow. I'm passionate about finding innovative solutions to complex problems and making life more enjoyable for everyone involved. Let's work together to build something great!</p>
     <h2>Skills</h2>
+    <p>testing beta deployment</p>
     <h2>Experience</h2>
     <h2>Interests</h2>
   </main>
