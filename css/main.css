@@ -1,17 +1,29 @@
+html {
+    background-color: #007;
+}
+
 body {
     font-family: 'Exo 2', sans-serif;
     font-weight: 300;
     max-width: 1024px;
     margin: 0 auto;
+    background-color: #fff;
+    padding: 0 0.5em;
 }
 
 a {
-    text-decoration: dotted;
+    text-decoration: none;
     font-weight: 500;
 }
 
 a:hover {
+    text-decoration: dotted;
     background-color: aliceblue;
+}
+
+a:active,
+a:visited {
+    color: #007;
 }
 
 .topnav {
@@ -21,6 +33,20 @@ a:hover {
     z-index: 10000;
     padding: 0.125em 0;
     margin: 0 0 0.125em 0;
+}
+
+.topnav {
+    display: flex;
+    flex-direction: row;
+}
+
+.topnav h1 {
+    padding: 0;
+    margin: auto 0.5em auto 0;
+}
+
+.topnav ul {
+    padding-inline-start: 0;
 }
 
 .index img.portrait {
