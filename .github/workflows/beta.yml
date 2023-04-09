@@ -2,6 +2,8 @@ on:
   push:
     branches:
       - beta
+    branches-ignore:
+      - main
 name: 🚀 Deploy beta website on push to beta
 jobs:
   web-deploy:
