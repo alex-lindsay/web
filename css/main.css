@@ -1,5 +1,5 @@
 html {
-    background-color: #f7f7f7;
+    background-color: #007;
 }
 
 body {
@@ -12,12 +12,18 @@ body {
 }
 
 a {
-    text-decoration: dotted;
+    text-decoration: none;
     font-weight: 500;
 }
 
 a:hover {
+    text-decoration: dotted;
     background-color: aliceblue;
+}
+
+a:active,
+a:visited {
+    color: #007;
 }
 
 .topnav {
@@ -27,6 +33,20 @@ a:hover {
     z-index: 10000;
     padding: 0.125em 0;
     margin: 0 0 0.125em 0;
+}
+
+.topnav {
+    display: flex;
+    flex-direction: row;
+}
+
+.topnav h1 {
+    padding: 0;
+    margin: auto 0.5em auto 0;
+}
+
+.topnav ul {
+    padding-inline-start: 0;
 }
 
 .index img.portrait {
