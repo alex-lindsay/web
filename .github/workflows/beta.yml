@@ -14,4 +14,5 @@ jobs:
         server: beta.alex-lindsay.com
         username: ${{ secrets.GD_FTP_USER }}
         password: ${{ secrets.GD_FTP_PASS }}
-        dry-run: false
+        server-dir: public_html/beta.alex-lindsay.com/
+        dry-run: true
