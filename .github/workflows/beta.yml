@@ -1,5 +1,8 @@
-on: push
-name: 🚀 Deploy website on push
+on:
+  push:
+    branches:
+      - beta
+name: 🚀 Deploy beta website on push to beta
 jobs:
   web-deploy:
     name: 🎉 Deploy
