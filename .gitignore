@@ -1,4 +1,10 @@
 _old/
+assets/fontawesome/js
+assets/fontawesome/less
+assets/fontawesome/metadata
+assets/fontawesome/scss
+assets/fontawesome/sprites
+assets/fontawesome/svgs
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
