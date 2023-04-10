@@ -10,6 +10,6 @@
 	<nav class="topnav">
 		<h1>Alex Lindsay</h1>
     <ul>
-      <ul><a href="/">Home</a></ul>
+      <li><a href="/">Home</a></li>
     </ul>
   </nav>
