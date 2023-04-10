@@ -64,6 +64,15 @@ ul {
     float: left;
 }
 
+.topnav li {
+    float: left;
+    margin-right: 1em;
+}
+
+.topnav li a {
+    padding: 5px;
+}
+
 .index img.portrait {
     float: left;
     width: 30%;
