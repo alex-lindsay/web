@@ -62,6 +62,12 @@ $pageclass = 'index';
       <span class="role">Director of Technology</span>
     </h3>
     <h3 class="experience">
+      <span class="company">Two Nil</span>
+      <span class="location">Remote</span>
+      <span class="dates">May 2020 – Aug 2020</span>
+      <span class="role">Technology Management Consultant</span>
+    </h3>
+    <h3 class="experience">
       <span class="company">Zwift</span>
       <span class="location">Long Beach, CA (Hybrid)</span>
       <span class="dates">Sep 2018 – Mar 2020</span>
@@ -85,13 +91,6 @@ $pageclass = 'index';
       <span class="dates">1999–2018</span>
       <span class="role">Co-owner, VP, Engineering</span>
     </h3>
-    <h3 class="experience">
-      <span class="company">Two Nil</span>
-      <span class="location">Remote</span>
-      <span class="dates">May 2020 – Aug 2020</span>
-      <span class="role">Technology Management Consultant</span>
-    </h3>
-
 
     <h2 class="header-interests">Interests</h2>
     <ul class="interests">

@@ -23,13 +23,12 @@ $pageclass = 'resume';
         <li>Supervised roadmapping and execution of security remediations for Stores
           Team to meet pending SOC 2 Type 2 audit</li>
         <li>Participated in Engineering Center of Excellence</li>
-        <li>
-          <ul>
-            <li>Surveyed multiple teams to source and develop opportunities to improve
-              developer experience and save engineering time and resources</li>
-            <li>Collaborated with engineering managers to develop business cases for
-              various projects to present to executive management</li>
-          </ul>
+        <ul>
+          <li>Surveyed multiple teams to source and develop opportunities to improve
+            developer experience and save engineering time and resources</li>
+          <li>Collaborated with engineering managers to develop business cases for
+            various projects to present to executive management</li>
+        </ul>
         <li>Mentored a direct report toward promotion to a Technical Product Mgr. role</li>
         <li>Created Jira/Slack Automations to Improve Team Operations building
           efficiency in team workflow, and adapting communication to team needs</li>
@@ -48,14 +47,13 @@ $pageclass = 'resume';
       </h3>
       <ul>
         <li>Migrated content management from Tech to Marketing</li>
-        <li>
-          <ul>
-            <li>Reduced engineering time spent by an average of 15 hours per week</li>
-            <li>Evaluated multiple content management systems (CMS) based on
-              business/engineering needs</li>
-            <li>Implemented Builder in our React site, reducing engineering workload</li>
-            <li>Built Shopify-enabled components for use within Builder</li>
-          </ul>
+        <ul>
+          <li>Reduced engineering time spent by an average of 15 hours per week</li>
+          <li>Evaluated multiple content management systems (CMS) based on
+            business/engineering needs</li>
+          <li>Implemented Builder in our React site, reducing engineering workload</li>
+          <li>Built Shopify-enabled components for use within Builder</li>
+        </ul>
         <li>Integrated AirTable as a data management system (DMS) alongside Builder
           for site organization</li>
         <ul>
@@ -73,6 +71,28 @@ $pageclass = 'resume';
           using Next.js to help with site performance and reduce API calls</li>
         <li>Reduced code in website and admin management website by roughly 25%
           through code refactoring, isolating business logic/rules</li>
+      </ul>
+    </article>
+    <article class="experience">
+      <h3>
+        <span class="company">Two Nil</span>
+        <span class="location">Remote</span>
+        <span class="dates">May 2020 – Aug 2020</span>
+        <span class="role">Technology Management Consultant — Project Contract</span>
+      </h3>
+      <ul>
+        <li>Reviewed application systems architecture</li>
+        <ul>
+          <li>Offered guidance on systems administration concerns such as a roadmap
+            toward implementing SSO for their customer portal and internal
+            management tools</li>
+          <li>Reviewed AWS service utilization</li>
+          <li>Recommended AWS resource reductions and optimizations</li>
+          <li>Reviewed and recommended AWS cost savings plans</li>
+        </ul>
+        <li>Developed job description for IT Manager Role</li>
+        <li>Conducted interviews for IT Manager</li>
+        <li>Presented a short list of preferred candidates to Executive Management</li>
       </ul>
     </article>
     <article class="experience">
@@ -166,29 +186,6 @@ $pageclass = 'resume';
           <li>Proofreading/copyediting</li>
           <li>Software training and tutoring</li>
         </ul>
-      </ul>
-    </article>
-    <h2>PROJECTS</h2>
-    <article class="experience">
-      <h3>
-        <span class="company">Two Nil</span>
-        <span class="location">Remote</span>
-        <span class="dates">May 2020 – Aug 2020</span>
-        <span class="role">Technology Management Consultant</span>
-      </h3>
-      <ul>
-        <li>Reviewed application systems architecture</li>
-        <ul>
-          <li>Offered guidance on systems administration concerns such as a roadmap
-            toward implementing SSO for their customer portal and internal
-            management tools</li>
-          <li>Reviewed AWS service utilization</li>
-          <li>Recommended AWS resource reductions and optimizations</li>
-          <li>Reviewed and recommended AWS cost savings plans</li>
-        </ul>
-        <li>Developed job description for IT Manager Role</li>
-        <li>Conducted interviews for IT Manager</li>
-        <li>Presented a short list of preferred candidates to Executive Management</li>
       </ul>
     </article>
   </main>
