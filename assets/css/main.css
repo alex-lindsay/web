@@ -97,7 +97,8 @@ ul {
     margin-left: 2em;
 }
 
-.index h3.experience .company {
+.index h3.experience .company,
+.resume article.experience .company {
     display: block;
     float: left;
     font-size: 1em;
@@ -105,11 +106,13 @@ ul {
     padding-right: 0.25em;
 }
 
-.index h3.experience .company::after {
+.index h3.experience .company::after,
+.resume article.experience .company {
     content: ", ";
 }
 
-.index h3.experience .location {
+.index h3.experience .location,
+.resume article.experience .location {
     display: block;
     float: left;
     font-size: 0.75em;
@@ -119,11 +122,13 @@ ul {
     padding-top: 0.25em;
 }
 
-.index h3.experience .location::after {
+.index h3.experience .location::after,
+.resume article.experience .location {
     content: " —";
 }
 
-.index h3.experience .dates {
+.index h3.experience .dates,
+.resume article.experience .dates {
     display: block;
     float: left;
     font-size: 0.75em;
@@ -131,7 +136,8 @@ ul {
     padding-top: 0.25em;
 }
 
-.index h3.experience .role {
+.index h3.experience .role,
+.resume article.experience .role {
     display: block;
     clear: both;
     font-size: 0.85em;
@@ -144,6 +150,26 @@ ul {
     width: 23%;
     padding: 0.1em;
     font-size: 90%;
+}
+
+.resume h2,
+.resume article {
+    margin: 0 auto;
+    width: min(700px, 100%);
+    max-width: 700px;
+    border-bottom: 1px solid #ccf;
+}
+
+.resume article.experience ul {
+    list-style: disc;
+}
+
+.resume article.experience li {
+    margin-bottom: 0.75em;
+}
+
+.resume article.experience ul ul {
+    list-style: circle;
 }
 
 footer {
