@@ -15,6 +15,7 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
+        # server: beta.alex-lindsay.com
         server: www.alex-lindsay.com
         username: ${{ secrets.GD_FTP_USER }}
         password: ${{ secrets.GD_FTP_PASS }}
