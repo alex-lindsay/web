@@ -76,7 +76,7 @@ ul {
 .index img.portrait {
     float: left;
     width: 30%;
-    margin: 0 1em 5em 0;
+    margin: 0 1em 1em 0;
 }
 
 .index h2.header-about {
@@ -200,11 +200,17 @@ footer {
 }
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
-
+    .index h2 {
+        margin-left: 1em;
+        margin-right: 1em;
+    }
 }
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
-
+    .index h2.header-skills {
+        clear: none;
+        margin-top: 6em;
+    }    
 }
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {

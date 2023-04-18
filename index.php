@@ -19,35 +19,35 @@ $pageclass = 'index';
         <p>I've been in the software engineering game since before the world feared the Millennium Bug, and I've had the privilege of working in a variety of roles - from individual contributor to manager to business owner - across a range of industries, including software business systems, food manufacturing, entertainment, and health & beauty.</p>
         <p>At every turn, I've used my expertise to engineer software that makes work easier, facilitates building new things, and helps businesses grow. I'm passionate about finding innovative solutions to complex problems and making life more enjoyable for everyone involved. Let's work together to build something great!</p>
       </div>
-      <h2 class="header-skills">Skills</h2>
-      <ul class="skills">
-        <li>Team Management<br />(onsite and remote)</li>
-        <li>Coaching/Mentoring</li>
-        <li>Career Development</li>
-        <li>Customer Engagement</li>
-        <li>Conflict Resolution</li>
-        <li>Budget Management</li>
-        <li>Roadmap Management</li>
-        <li>Agile/Scrum/Kanban</li>
-        <li>JavaScript, Python, React,<br />PHP, Node.js, Ruby, Java</li>
-        <li>MySQL, Postgres, MongoDB, Redis</li>
-        <li>Content Management Systems</li>
-        <li>Publishing Systems</li>
-        <li>Data Management Systems</li>
-        <li>E-Commerce</li>
-        <li>Docker</li>
-        <li>Jenkins</li>
-        <li>AWS Service Management</li>
-        <li>AWS Cost Management</li>
-        <li>Full-stack Engineering</li>
-        <li>Front-end Engineering</li>
-        <li>Back-end Engineering</li>
-        <li>API Service Engineering</li>
-        <li>REST/GraphQL Services</li>
-        <li>System Integration</li>
-        <li>Process Automation</li>
-      </ul>
     </div>
+    <h2 class="header-skills">Skills</h2>
+    <ul class="skills">
+      <li>Team Management<br />(onsite and remote)</li>
+      <li>Coaching/Mentoring</li>
+      <li>Career Development</li>
+      <li>Customer Engagement</li>
+      <li>Conflict Resolution</li>
+      <li>Budget Management</li>
+      <li>Roadmap Management</li>
+      <li>Agile/Scrum/Kanban</li>
+      <li>JavaScript, Python, React,<br />PHP, Node.js, Ruby, Java</li>
+      <li>MySQL, Postgres, MongoDB, Redis</li>
+      <li>Content Management Systems</li>
+      <li>Publishing Systems</li>
+      <li>Data Management Systems</li>
+      <li>E-Commerce</li>
+      <li>Docker</li>
+      <li>Jenkins</li>
+      <li>AWS Service Management</li>
+      <li>AWS Cost Management</li>
+      <li>Full-stack Engineering</li>
+      <li>Front-end Engineering</li>
+      <li>Back-end Engineering</li>
+      <li>API Service Engineering</li>
+      <li>REST/GraphQL Services</li>
+      <li>System Integration</li>
+      <li>Process Automation</li>
+    </ul>
     <h2 class="header-experience">Experience</h2>
     <h3 class="experience">
       <span class="company">Drizly</span>
