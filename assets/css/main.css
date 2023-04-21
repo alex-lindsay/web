@@ -200,8 +200,12 @@ footer {
 }
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
-    .index h2 {
+    h2 {
         margin-left: 1em;
+        margin-right: 1em;
+    }
+    article {
+        margin-left: 3em;
         margin-right: 1em;
     }
 }
