@@ -94,7 +94,7 @@ $pageclass = 'index';
 
     <h2 class="header-interests">Interests</h2>
     <ul class="interests">
-      <li>Linguistics and Languages</li>
+      <li><a href="interests.php#linguistics">Linguistics and Languages</a></li>
       <li>Digital Art</li>
       <li>Photography</li>
       <li>Architecture</li>
@@ -102,6 +102,7 @@ $pageclass = 'index';
       <li>Urban Planning</li>
       <li>Mathematics</li>
       <li>Puzzles</li>
+      <li>Reading</li>
     </ul>
   </main>
   <?php include(DOCROOT . '/footer.inc.php'); ?>
