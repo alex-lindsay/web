@@ -11,6 +11,12 @@ $pageclass = 'interests';
   <?php include(DOCROOT . '/topmenu.inc.php'); ?>
   <main>
     <h1>Alex Lindsay — Interests</h1>
+    <article>
+      <a href="assets/img/art/MilanPortaGaribaldi-signed.jpeg" title="Link to larger copy of 'Self Portrait at the Porta Garabaldi aimed at the sky' by Alex Lindsay"><img style="float: left; height: 16rem; margin: 1rem 1rem 1rem 0" src="assets/img/art/MilanPortaGaribaldi-signed.jpeg" title="Self Portrait at the Porta Garabaldi aimed at the sky by Alex Lindsay" /></a>
+      <p>One of the things I hope to accomplish with this website, is to give anyone who might wander in here a glimpse of some of the things that have caught my fancy over the years.</p>
+      <p>I describe myself as a generalist, and here you'll find the tip of the iceberg of some of the islands in the general floe. There are any number of additional interests and curiosities that I have that I may add over time. Or may not.</p>
+      <p>I hope to add further info in more detailed pages for some of the topics that really grab my engagement, connecting to other people, other sites which have inspired and delighted me throughout my life.</p>
+    </article>
     <h2 id="linguistics">Linguistics and Languages</h2>
     <article>
       <a href="https://en.wikipedia.org/wiki/Schwa" title="Link to Schwa page on Wikipedia">
