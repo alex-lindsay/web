@@ -98,6 +98,7 @@ $pageclass = 'index';
       <li>Digital Art</li>
       <li>Photography</li>
       <li>Architecture</li>
+      <li>Typography</li>
       <li>Geography</li>
       <li>Urban Planning</li>
       <li>Mathematics</li>
