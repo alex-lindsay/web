@@ -12,7 +12,7 @@ $pageclass = 'index';
 
   <main>
     <div class="about">
-      <img class="portrait" src="assets/img/Headshot 2023.jpeg" alt="Portrait of Alex Lindsay" title="Portrait of Alex Lindsay" />
+      <img class="portrait" src="assets/img/Headshot 2023-thumb.jpeg" alt="Portrait of Alex Lindsay" title="Portrait of Alex Lindsay" />
       <h2 class="header-about">About Me</h2>
       <div class="about">
         <p>I'm a software engineering chameleon, constantly evolving and adapting to new challenges and environments. Just like this site, I'm a work in progress, always striving to improve and grow.</p>
