@@ -30,8 +30,9 @@ To restart php after an upgrade:
 Or, if you don't want/need a background service you can just run:
   /opt/homebrew/opt/php/sbin/php-fpm --nodaemonize
 
-
 $ sudo apachectl start
 $ sudo apachectl stop
 $ sudo apachectl -k restart
 $ sudo apachectl configtest
+
+GitHub Actions uses FTP Deploy: https://github.com/marketplace/actions/ftp-deploy
