@@ -361,7 +361,6 @@ footer {
 @media only screen and (min-width: 768px) {
     .index h2.header-skills {
         clear: none;
-        margin-top: 6em;
     }
 }
 
