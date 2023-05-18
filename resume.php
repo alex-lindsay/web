@@ -16,7 +16,7 @@ $pageclass = 'resume';
       <h3>
         <span class="company">Drizly</span>
         <span class="location">Boston, MA (Remote)</span>
-        <span class="dates">Apr 2022 – Present</span>
+        <span class="dates">Apr 2022 – May 2023</span>
         <span class="role">Engineering Manager — Retailer Store Availability</span>
       </h3>
       <ul>
